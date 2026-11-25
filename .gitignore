@@ -1,0 +1,13 @@
+# Dependencies
+/node_modules
+/vendor
+
+# Secrets
+.env
+
+# IDE
+/.idea
+/.vscode
+
+# macOS
+.DS_Store
